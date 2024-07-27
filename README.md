@@ -1,4 +1,4 @@
-<img width="320" alt="image" src="https://github.com/user-attachments/assets/c2deea8b-81f7-46a4-a2df-271c5de3ac00"># 무신사 기업 현황 및 문제점 분석과 해결 방안 기획
+# 무신사 기업 현황 및 문제점 분석과 해결 방안 기획
 
 목차: 
 1. MUSINSA 기업 소개
