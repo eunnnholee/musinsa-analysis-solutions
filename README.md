@@ -19,6 +19,7 @@
 <img width="282" alt="image" src="https://github.com/user-attachments/assets/8a8dd316-d0be-42d4-b88f-258464aef593">
 
 </br>
+</br>
 
 1. 팬덤이 이끄는 커뮤니티의 힘
   - 커뮤니티를 통해 무신사를 진심으로 좋아하는 팬을 모으는 데 집중
